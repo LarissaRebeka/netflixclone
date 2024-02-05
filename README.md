@@ -1,4 +1,4 @@
-# netflixclone
+Netflix Clone
  Nesse projeto criei um clone do Netflix e pude colocar em prática alguns conhecimentos como:
  1-Organizar o HTML de forma semântica 
  2-Uso das classes container ou wrapper, que são usadas em HTML e CSS para envolver o conteúdo de uma página da web e aplicar estilos ou limitações de largura ao layout
